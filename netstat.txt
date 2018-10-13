@@ -1,0 +1,52 @@
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State           Offload State
+
+  TCP    10.0.0.205:4888        ec2-34-212-93-174:https  ESTABLISHED     InHost      
+  TCP    10.0.0.205:4892        104.20.32.182:https    ESTABLISHED     InHost      
+  TCP    10.0.0.205:4918        40.67.254.36:https     ESTABLISHED     InHost      
+  TCP    10.0.0.205:4989        reverse-unset:http     ESTABLISHED     InHost      
+  TCP    10.0.0.205:5425        reverse-unset:http     ESTABLISHED     InHost      
+  TCP    10.0.0.205:5683        server-52-85-224-29:https  CLOSE_WAIT      InHost      
+  TCP    10.0.0.205:5960        stackoverflow:https    ESTABLISHED     InHost      
+  TCP    10.0.0.205:5966        40.97.188.242:https    ESTABLISHED     InHost      
+  TCP    10.0.0.205:5974        ns02:http              ESTABLISHED     InHost      
+  TCP    10.0.0.205:5975        ec2-18-195-102-17:https  TIME_WAIT       InHost      
+  TCP    10.0.0.205:5976        13.107.246.10:https    ESTABLISHED     InHost      
+  TCP    10.0.0.205:5977        ocsp:http              CLOSE_WAIT      InHost      
+  TCP    10.0.0.205:5978        a2-21-132-103:https    ESTABLISHED     InHost      
+  TCP    10.0.0.205:5979        204.79.197.254:https   ESTABLISHED     InHost      
+  TCP    10.0.0.205:5980        204.79.197.222:https   ESTABLISHED     InHost      
+  TCP    10.0.0.205:5981        a-0001:https           ESTABLISHED     InHost      
+  TCP    10.0.0.205:5982        13.107.18.11:https     ESTABLISHED     InHost      
+  TCP    127.0.0.1:1542         MSDN-PC:1544           ESTABLISHED     InHost      
+  TCP    127.0.0.1:1543         MSDN-PC:1545           ESTABLISHED     InHost      
+  TCP    127.0.0.1:1544         MSDN-PC:1542           ESTABLISHED     InHost      
+  TCP    127.0.0.1:1545         MSDN-PC:1543           ESTABLISHED     InHost      
+  TCP    127.0.0.1:1546         MSDN-PC:1548           ESTABLISHED     InHost      
+  TCP    127.0.0.1:1547         MSDN-PC:1549           ESTABLISHED     InHost      
+  TCP    127.0.0.1:1548         MSDN-PC:1546           ESTABLISHED     InHost      
+  TCP    127.0.0.1:1549         MSDN-PC:1547           ESTABLISHED     InHost      
+  TCP    127.0.0.1:1758         MSDN-PC:1759           ESTABLISHED     InHost      
+  TCP    127.0.0.1:1759         MSDN-PC:1758           ESTABLISHED     InHost      
+  TCP    127.0.0.1:1760         MSDN-PC:1761           ESTABLISHED     InHost      
+  TCP    127.0.0.1:1761         MSDN-PC:1760           ESTABLISHED     InHost      
+  TCP    127.0.0.1:1778         MSDN-PC:1779           ESTABLISHED     InHost      
+  TCP    127.0.0.1:1779         MSDN-PC:1778           ESTABLISHED     InHost      
+  TCP    127.0.0.1:2023         MSDN-PC:2024           ESTABLISHED     InHost      
+  TCP    127.0.0.1:2024         MSDN-PC:2023           ESTABLISHED     InHost      
+  TCP    127.0.0.1:2034         MSDN-PC:2035           ESTABLISHED     InHost      
+  TCP    127.0.0.1:2035         MSDN-PC:2034           ESTABLISHED     InHost      
+  TCP    127.0.0.1:2130         MSDN-PC:2131           ESTABLISHED     InHost      
+  TCP    127.0.0.1:2131         MSDN-PC:2130           ESTABLISHED     InHost      
+  TCP    127.0.0.1:2132         MSDN-PC:2133           ESTABLISHED     InHost      
+  TCP    127.0.0.1:2133         MSDN-PC:2132           ESTABLISHED     InHost      
+  TCP    127.0.0.1:2327         MSDN-PC:2328           ESTABLISHED     InHost      
+  TCP    127.0.0.1:2328         MSDN-PC:2327           ESTABLISHED     InHost      
+  TCP    127.0.0.1:2572         MSDN-PC:2573           ESTABLISHED     InHost      
+  TCP    127.0.0.1:2573         MSDN-PC:2572           ESTABLISHED     InHost      
+  TCP    127.0.0.1:5941         MSDN-PC:5942           ESTABLISHED     InHost      
+  TCP    127.0.0.1:5942         MSDN-PC:5941           ESTABLISHED     InHost      
+  TCP    127.0.0.1:5944         MSDN-PC:5945           ESTABLISHED     InHost      
+  TCP    127.0.0.1:5945         MSDN-PC:5944           ESTABLISHED     InHost      
